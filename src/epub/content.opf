@@ -2,8 +2,8 @@
 <package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">https://standardebooks.org/ebooks/william-gerhardie/futility</dc:identifier>
-		<dc:date>1900-01-01T00:00:00Z</dc:date>
-		<meta property="dcterms:modified">1900-01-01T00:00:00Z</meta>
+		<dc:date>2025-12-22T17:41:53Z</dc:date>
+		<meta property="dcterms:modified">2025-12-22T17:41:53Z</meta>
 		<dc:rights>The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).</dc:rights>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
@@ -43,17 +43,17 @@
 		<meta property="authority" refines="#subject-2">LCSH</meta>
 		<meta property="term" refines="#subject-2">sh2008111701</meta>
 		<meta property="se:subject">Fiction</meta>
-		<dc:description id="description">An English man befriends three young women from a waiting Russian family.</dc:description>
+		<dc:description id="description">An English man befriends three young women from a soon-to-be-wealthy Russian family.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			&lt;p&gt;Andrei Andreiech, a young Russian-English man, finds himself in the company of the three lovely daughters of the Bursanov family. Their father, Nikolai Vasilievich, is a man of potential means, but leaving aside a large house most of his wealth is tied up in a series of non-productive Siberian goldmines. Still, the possibility of future income is enough to keep afloat himself, his daughters, his lover, his ex-wife, and a whole series of extended family members and hangers-on. Both Nikolai and his retinue seem locked into a holding pattern, their own lives unable to progress without some resolution that never seems to arrive.&lt;/p&gt;
-			&lt;p&gt;&lt;i&gt;Futility&lt;/i&gt; was &lt;a href="https://standardebooks.org/ebooks/william-gerhardie"&gt;William Gerhardie’s&lt;/a&gt; first novel, published while he was attending Oxford after a stint in the British army. Like his protagonist, he was born and raised in Russia then joined the English army as an officer, but he was careful to note that “the ‘I’ of this book is not me.” The book was critically acclaimed: both &lt;a href="https://standardebooks.org/ebooks/evelyn-waugh"&gt;Evelyn Waugh&lt;/a&gt; and &lt;a href="https://standardebooks.org/ebooks/h-g-wells"&gt;&lt;abbr&gt;H. G.&lt;/abbr&gt; Wells&lt;/a&gt; championed him, and &lt;a href="https://standardebooks.org/ebooks/edith-wharton"&gt;Edith Wharton&lt;/a&gt; wrote a preface for this edition. It has been cited as one of the earliest appearances of a recurrent theme in twentieth century literature: that of “waiting” (made most famous in Beckett’s &lt;i&gt;Waiting for Godot&lt;/i&gt;).&lt;/p&gt;
+			&lt;p&gt;Andrei Andreiech, a young Russian-English man, finds himself in the company of the three lovely daughters of the Bursanov family. Their father, Nikolai Vasilievich, is a man of potential means, but besides a large house most of his wealth is tied up in a series of non-productive Siberian goldmines. Still, the possibility of future income is enough to keep him afloat, along with his daughters, his lover, his ex-wife, and a whole series of extended family members and hangers-on. Both Nikolai and his retinue seem locked into a holding pattern, their lives unable to progress without some inflection point that never seems to arrive.&lt;/p&gt;
+			&lt;p&gt;&lt;i&gt;Futility&lt;/i&gt; is &lt;a href="https://standardebooks.org/ebooks/william-gerhardie"&gt;William Gerhardie’s&lt;/a&gt; first novel, published while he was attending Oxford after a stint in the British army. Like his protagonist, he was born and raised in Russia, then joined the English army as an officer, but he was careful to note that “the ‘I’ of this book is not me.” The book was critically acclaimed: both &lt;a href="https://standardebooks.org/ebooks/evelyn-waugh"&gt;Evelyn Waugh&lt;/a&gt; and &lt;a href="https://standardebooks.org/ebooks/h-g-wells"&gt;H. G. Wells&lt;/a&gt; championed him, and &lt;a href="https://standardebooks.org/ebooks/edith-wharton"&gt;Edith Wharton&lt;/a&gt; wrote a preface for this edition. It has been cited as one of the earliest appearances of a theme that would become recurrent in twentieth century literature: that of “waiting” (a theme made most famous in &lt;a href="https://standardebooks.org/ebooks/samuel-beckett"&gt;Beckett’s&lt;/a&gt; &lt;i&gt;Waiting for Godot&lt;/i&gt;).&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/77253</dc:source>
 		<dc:source>https://archive.org/details/futilitynovalonr0000will</dc:source>
 		<meta property="se:production-notes">Cecedek changes his name to Čečedek half way through, so the diacritics aren’t expected to match.</meta>
-		<meta property="se:word-count">WORD_COUNT</meta>
-		<meta property="se:reading-ease.flesch">READING_EASE</meta>
+		<meta property="se:word-count">58324</meta>
+		<meta property="se:reading-ease.flesch">66.03</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/william-gerhardie_futility</meta>
 		<dc:creator id="author">William Gerhardie</dc:creator>
 		<meta property="file-as" refines="#author">Gerhardie, William</meta>
@@ -86,6 +86,10 @@
 		<meta property="role" refines="#producer-1" scheme="marc:relators">mrk</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">pfr</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">tyg</meta>
+		<dc:contributor id="producer-2">Alex Cabal</dc:contributor>
+		<meta property="file-as" refines="#producer-2">Cabal, Alex</meta>
+		<meta property="se:url.homepage" refines="#producer-2">https://alexcabal.com/</meta>
+		<meta property="role" refines="#producer-2" scheme="marc:relators">pfr</meta>
 	</metadata>
 	<manifest>
 		<item href="css/core.css" id="core.css" media-type="text/css"/>
