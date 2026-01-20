@@ -52,7 +52,7 @@
 		<dc:source>https://www.gutenberg.org/ebooks/77253</dc:source>
 		<dc:source>https://archive.org/details/futilitynovalonr0000will</dc:source>
 		<meta property="se:production-notes">Cecedek changes his name to Čečedek half way through, so the diacritics aren’t expected to match.</meta>
-		<meta property="se:word-count">58324</meta>
+		<meta property="se:word-count">57582</meta>
 		<meta property="se:reading-ease.flesch">66.03</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/william-gerhardie_futility</meta>
 		<dc:creator id="author">William Gerhardie</dc:creator>
