@@ -16,6 +16,12 @@
 			<reason>Run-on dialog.</reason>
 		</ignore>
 	</file>
+	<file path="clarification.xhtml">
+		<ignore>
+			<code>c-012</code>
+			<reason>Section is center-aligned.</reason>
+		</ignore>
+	</file>
 	<file path="preface.xhtml">
 		<ignore>
 			<code>t-005</code>
