@@ -1,30 +1,25 @@
 <?xml version="1.0" encoding="utf-8"?>
 <se-lint-ignore>
 	<file path="chapter-3-2.xhtml">
-		<ignore>
-			<code>t-003</code>
+		<ignore code="t-003">
 			<reason>Run-on dialog.</reason>
 		</ignore>
-		<ignore>
-			<code>y-031</code>
+		<ignore code="y-031">
 			<reason>Two speakers correctly in one paragraph.</reason>
 		</ignore>
 	</file>
 	<file path="chapter-3-3.xhtml">
-		<ignore>
-			<code>t-003</code>
+		<ignore code="t-003">
 			<reason>Run-on dialog.</reason>
 		</ignore>
 	</file>
 	<file path="clarification.xhtml">
-		<ignore>
-			<code>c-012</code>
+		<ignore code="c-012">
 			<reason>Section is center-aligned.</reason>
 		</ignore>
 	</file>
 	<file path="preface.xhtml">
-		<ignore>
-			<code>t-005</code>
+		<ignore code="t-005">
 			<reason>A quote, not dialog.</reason>
 		</ignore>
 	</file>
