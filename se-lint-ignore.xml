@@ -22,10 +22,4 @@
 			<reason>Section is center-aligned.</reason>
 		</ignore>
 	</file>
-	<file path="preface.xhtml">
-		<ignore code="t-005">
-			<line>18</line>
-			<reason>A quote, not dialog.</reason>
-		</ignore>
-	</file>
 </se-lint-ignore>
