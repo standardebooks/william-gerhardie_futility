@@ -36,7 +36,7 @@
 		<meta property="title-type" refines="#subtitle">subtitle</meta>
 		<dc:title id="fulltitle">Futility: A Novel on Russian Themes</dc:title>
 		<meta property="file-as" refines="#fulltitle">Futility</meta>
-		<meta property="title-type" refines="#fulltitle">extended</meta>
+		<meta property="title-type" refines="#fulltitle">expanded</meta>
 		<dc:subject id="subject-1">Historical fiction</dc:subject>
 		<dc:subject id="subject-2">Soviet Union -- Fiction</dc:subject>
 		<meta property="authority" refines="#subject-1">LCSH</meta>
