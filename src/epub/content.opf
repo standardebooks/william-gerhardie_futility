@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0 rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
+<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">https://standardebooks.org/ebooks/william-gerhardie/futility</dc:identifier>
 		<dc:date>2025-12-22T17:41:53Z</dc:date>
@@ -44,11 +44,11 @@
 		<meta property="authority" refines="#subject-2">LCSH</meta>
 		<meta property="term" refines="#subject-2">sh2008111701</meta>
 		<meta property="schema:genre">Fiction</meta>
-		<dc:description id="description">An English man befriends three young women from a soon-to-be-wealthy Russian family.</dc:description>
-		<meta id="long-description" property="se:long-description" refines="#description">
+		<dc:abstract>An English man befriends three young women from a soon-to-be-wealthy Russian family.</dc:abstract>
+		<dc:description>
 			&lt;p&gt;Andrei Andreiech, a young Russian-English man, finds himself in the company of the three lovely daughters of the Bursanov family. Their father, Nikolai Vasilievich, is a man of potential means, but besides a large house most of his wealth is tied up in a series of non-productive Siberian goldmines. Still, the possibility of future income is enough to keep him afloat, along with his daughters, his lover, his ex-wife, and a whole series of extended family members and hangers-on. Both Nikolai and his retinue seem locked into a holding pattern, their lives unable to progress without some inflection point that never seems to arrive.&lt;/p&gt;
 			&lt;p&gt;&lt;i&gt;Futility&lt;/i&gt; is &lt;a href="https://standardebooks.org/ebooks/william-gerhardie"&gt;William Gerhardie’s&lt;/a&gt; first novel, published while he was attending Oxford after a stint in the British army. Like his protagonist, he was born and raised in Russia, then joined the English army as an officer, but he was careful to note that “the ‘I’ of this book is not me.” The book was critically acclaimed: both &lt;a href="https://standardebooks.org/ebooks/evelyn-waugh"&gt;Evelyn Waugh&lt;/a&gt; and &lt;a href="https://standardebooks.org/ebooks/h-g-wells"&gt;H. G. Wells&lt;/a&gt; championed him, and &lt;a href="https://standardebooks.org/ebooks/edith-wharton"&gt;Edith Wharton&lt;/a&gt; wrote a preface for this edition. It has been cited as one of the earliest appearances of a theme that would become recurrent in twentieth century literature: that of “waiting” (a theme made most famous in &lt;a href="https://standardebooks.org/ebooks/samuel-beckett"&gt;Beckett’s&lt;/a&gt; &lt;i&gt;Waiting for Godot&lt;/i&gt;).&lt;/p&gt;
-		</meta>
+		</dc:description>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/77253</dc:source>
 		<dc:source>https://archive.org/details/futilitynovalonr0000will</dc:source>
